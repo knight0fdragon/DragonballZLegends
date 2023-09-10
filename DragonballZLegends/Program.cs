@@ -20,7 +20,6 @@ namespace DragonballZLegends
             EditOrv();
             EditSelect();
             EditTitle();
-
             EditWar();
 
         }
